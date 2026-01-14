@@ -195,7 +195,9 @@
     "meaning": "Thanh toán",
     "example": "I paid the bill yesterday.",
     "example_meaning": "Tôi đã thanh toán hóa đơn hôm qua.",
-    "user_examples": []
+    "user_examples": [
+      "I paid the bill yesterday"
+    ]
   },
   {
     "v1": "read",

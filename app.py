@@ -107,6 +107,12 @@ def save_user_example(verbs, current_verb, sentence):
         json.dump(verbs, f, ensure_ascii=False, indent=2)
 
 
+def reset_form():
+    st.session_state.v2_input = ""
+    st.session_state.v3_input = ""
+    st.session_state.user_sentence = ""
+
+
 verbs = load_data()
 
 # ---------------- SESSION ----------------
@@ -140,16 +146,24 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
+if "form_id" not in st.session_state:
+    st.session_state.form_id = 0
 
-# ---------------- FORM ----------------
-with st.form("answer_form"):
+with st.form(f"answer_form_{st.session_state.form_id}"):
     col1, col2 = st.columns(2)
     with col1:
-        v2_input = st.text_input("✏️ V2 / V-ed")
+        v2_input = st.text_input(
+            "✏️ V2 / V-ed",
+            key=f"v2_{st.session_state.form_id}"
+        )
     with col2:
-        v3_input = st.text_input("✏️ V3")
+        v3_input = st.text_input(
+            "✏️ V3",
+            key=f"v3_{st.session_state.form_id}"
+        )
 
     submitted = st.form_submit_button("✅ Check")
+
 
 # ---------------- CHECK LOGIC ----------------
 if submitted:
@@ -196,6 +210,7 @@ if st.session_state.result == "correct":
     st.markdown("<div class='next-btn'>", unsafe_allow_html=True)
 
     if st.button("🔄 Next verb"):
+        st.session_state.form_id += 1
         st.session_state.verb = random.choice(verbs)
         st.session_state.result = None
         st.rerun()
@@ -220,6 +235,7 @@ elif st.session_state.result == "wrong":
     st.markdown("<div class='retry-btn'>", unsafe_allow_html=True)
 
     if st.button("🔄 Let's try another verb"):
+        st.session_state.form_id += 1
         st.session_state.verb = random.choice(verbs)
         st.session_state.result = None
         st.rerun()
