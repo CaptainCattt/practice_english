@@ -95,6 +95,18 @@ def load_data():
         return json.load(f)
 
 
+def save_user_example(verbs, current_verb, sentence):
+    for v in verbs:
+        if v["v1"] == current_verb["v1"]:
+            if "user_examples" not in v:
+                v["user_examples"] = []
+            v["user_examples"].append(sentence)
+            break
+
+    with open("Data.json", "w", encoding="utf-8") as f:
+        json.dump(verbs, f, ensure_ascii=False, indent=2)
+
+
 verbs = load_data()
 
 # ---------------- SESSION ----------------
@@ -163,6 +175,23 @@ if st.session_state.result == "correct":
         """,
         unsafe_allow_html=True
     )
+    st.markdown("### ✍️ Your own sentence")
+    if "user_examples" in verb and len(verb["user_examples"]) > 0:
+        st.markdown("### 📚 Your saved sentences")
+        for i, s in enumerate(verb["user_examples"], 1):
+            st.markdown(f"**{i}.** {s}")
+
+    user_sentence = st.text_area(
+        "Write your sentence using this verb",
+        placeholder="Example: I became more confident after practicing every day.",
+        height=80
+    )
+    if st.button("💾 Save my sentence"):
+        if user_sentence.strip() == "":
+            st.warning("⚠️ Please write a sentence first.")
+        else:
+            save_user_example(verbs, verb, user_sentence.strip())
+            st.success("✅ Saved! Your sentence has been recorded.")
 
     st.markdown("<div class='next-btn'>", unsafe_allow_html=True)
 

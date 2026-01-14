@@ -1,194 +1,218 @@
 [
-    {
-        "v1": "become",
-        "v2": "became",
-        "v3": "become",
-        "meaning": "Trở thành",
-        "example": "He became a doctor last year.",
-        "example_meaning": "Anh ấy đã trở thành bác sĩ năm ngoái."
-    },
-    {
-        "v1": "begin",
-        "v2": "began",
-        "v3": "begun",
-        "meaning": "Bắt đầu",
-        "example": "She began the project yesterday.",
-        "example_meaning": "Cô ấy đã bắt đầu dự án vào ngày hôm qua."
-    },
-    {
-        "v1": "break",
-        "v2": "broke",
-        "v3": "broken",
-        "meaning": "Phá, làm vỡ",
-        "example": "He broke the glass.",
-        "example_meaning": "Anh ấy đã làm vỡ cái ly."
-    },
-    {
-        "v1": "bring",
-        "v2": "brought",
-        "v3": "brought",
-        "meaning": "Mang",
-        "example": "She brought a gift to the party.",
-        "example_meaning": "Cô ấy đã mang một món quà đến buổi tiệc."
-    },
-    {
-        "v1": "build",
-        "v2": "built",
-        "v3": "built",
-        "meaning": "Xây dựng",
-        "example": "They built a new house last year.",
-        "example_meaning": "Họ đã xây dựng một ngôi nhà mới vào năm ngoái."
-    },
-    {
-        "v1": "blow",
-        "v2": "blew",
-        "v3": "blown",
-        "meaning": "Thổi",
-        "example": "The wind blew strongly last night.",
-        "example_meaning": "Gió đã thổi mạnh vào đêm qua."
-    },
-    {
-        "v1": "buy",
-        "v2": "bought",
-        "v3": "bought",
-        "meaning": "Mua",
-        "example": "I bought a new phone yesterday.",
-        "example_meaning": "Tôi đã mua một chiếc điện thoại mới vào ngày hôm qua."
-    },
-    {
-        "v1": "catch",
-        "v2": "caught",
-        "v3": "caught",
-        "meaning": "Bắt",
-        "example": "He caught the ball during the game.",
-        "example_meaning": "Anh ấy đã bắt bóng trong trận đấu."
-    },
-    {
-        "v1": "choose",
-        "v2": "chose",
-        "v3": "chosen",
-        "meaning": "Chọn",
-        "example": "She chose the red dress for the party.",
-        "example_meaning": "Cô ấy đã chọn chiếc váy đỏ cho buổi tiệc."
-    },
-    {
-        "v1": "come",
-        "v2": "came",
-        "v3": "come",
-        "meaning": "Đến",
-        "example": "They came to the event last night.",
-        "example_meaning": "Họ đã đến sự kiện vào tối qua."
-    },
-    {
-        "v1": "cut",
-        "v2": "cut",
-        "v3": "cut",
-        "meaning": "Cắt",
-        "example": "He cut the paper into pieces.",
-        "example_meaning": "Anh ấy đã cắt giấy thành các mảnh."
-    },
-    {
-        "v1": "do",
-        "v2": "did",
-        "v3": "done",
-        "meaning": "Làm",
-        "example": "She did her homework last night.",
-        "example_meaning": "Cô ấy đã làm bài tập về nhà vào tối qua."
-    },
-    {
-        "v1": "drink",
-        "v2": "drank",
-        "v3": "drunk",
-        "meaning": "Uống",
-        "example": "They drank a lot of water after the workout.",
-        "example_meaning": "Họ đã uống rất nhiều nước sau buổi tập."
-    },
-    {
-        "v1": "eat",
-        "v2": "ate",
-        "v3": "eaten",
-        "meaning": "Ăn",
-        "example": "I ate lunch at 12 PM.",
-        "example_meaning": "Tôi đã ăn trưa lúc 12 giờ."
-    },
-    {
-        "v1": "fall",
-        "v2": "fell",
-        "v3": "fallen",
-        "meaning": "Ngã, rơi",
-        "example": "He fell down the stairs yesterday.",
-        "example_meaning": "Anh ấy đã ngã cầu thang hôm qua."
-    },
-    {
-        "v1": "feel",
-        "v2": "felt",
-        "v3": "felt",
-        "meaning": "Cảm thấy",
-        "example": "She felt happy after the meeting.",
-        "example_meaning": "Cô ấy cảm thấy vui sau cuộc họp."
-    },
-    {
-        "v1": "leave",
-        "v2": "left",
-        "v3": "left",
-        "meaning": "Rời đi",
-        "example": "They left the office at 6 PM.",
-        "example_meaning": "Họ đã rời văn phòng lúc 6 giờ chiều."
-    },
-    {
-        "v1": "lend",
-        "v2": "lent",
-        "v3": "lent",
-        "meaning": "Cho mượn",
-        "example": "I lent him my book.",
-        "example_meaning": "Tôi đã cho anh ấy mượn sách."
-    },
-    {
-        "v1": "lose",
-        "v2": "lost",
-        "v3": "lost",
-        "meaning": "Mất",
-        "example": "He lost his keys yesterday.",
-        "example_meaning": "Anh ấy đã làm mất chìa khóa hôm qua."
-    },
-    {
-        "v1": "make",
-        "v2": "made",
-        "v3": "made",
-        "meaning": "Làm, tạo ra",
-        "example": "She made a delicious cake.",
-        "example_meaning": "Cô ấy đã làm một chiếc bánh ngon."
-    },
-    {
-        "v1": "meet",
-        "v2": "met",
-        "v3": "met",
-        "meaning": "Gặp",
-        "example": "They met at the café yesterday.",
-        "example_meaning": "Họ đã gặp nhau ở quán cà phê hôm qua."
-    },
-    {
-        "v1": "pay",
-        "v2": "paid",
-        "v3": "paid",
-        "meaning": "Thanh toán",
-        "example": "I paid the bill yesterday.",
-        "example_meaning": "Tôi đã thanh toán hóa đơn hôm qua."
-    },
-    {
-        "v1": "read",
-        "v2": "read",
-        "v3": "read",
-        "meaning": "Đọc",
-        "example": "He read the book yesterday.",
-        "example_meaning": "Anh ấy đã đọc cuốn sách hôm qua."
-    },
-    {
-        "v1": "take",
-        "v2": "took",
-        "v3": "taken",
-        "meaning": "Lấy, mang",
-        "example": "I took the bus to work this morning.",
-        "example_meaning": "Tôi đã đi xe buýt đến nơi làm sáng nay."
-    }
+  {
+    "v1": "become",
+    "v2": "became",
+    "v3": "become",
+    "meaning": "Trở thành",
+    "example": "He became a doctor last year.",
+    "example_meaning": "Anh ấy đã trở thành bác sĩ năm ngoái.",
+    "user_examples": []
+  },
+  {
+    "v1": "begin",
+    "v2": "began",
+    "v3": "begun",
+    "meaning": "Bắt đầu",
+    "example": "She began the project yesterday.",
+    "example_meaning": "Cô ấy đã bắt đầu dự án vào ngày hôm qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "break",
+    "v2": "broke",
+    "v3": "broken",
+    "meaning": "Phá, làm vỡ",
+    "example": "He broke the glass.",
+    "example_meaning": "Anh ấy đã làm vỡ cái ly.",
+    "user_examples": []
+  },
+  {
+    "v1": "bring",
+    "v2": "brought",
+    "v3": "brought",
+    "meaning": "Mang",
+    "example": "She brought a gift to the party.",
+    "example_meaning": "Cô ấy đã mang một món quà đến buổi tiệc.",
+    "user_examples": []
+  },
+  {
+    "v1": "build",
+    "v2": "built",
+    "v3": "built",
+    "meaning": "Xây dựng",
+    "example": "They built a new house last year.",
+    "example_meaning": "Họ đã xây dựng một ngôi nhà mới vào năm ngoái.",
+    "user_examples": []
+  },
+  {
+    "v1": "blow",
+    "v2": "blew",
+    "v3": "blown",
+    "meaning": "Thổi",
+    "example": "The wind blew strongly last night.",
+    "example_meaning": "Gió đã thổi mạnh vào đêm qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "buy",
+    "v2": "bought",
+    "v3": "bought",
+    "meaning": "Mua",
+    "example": "I bought a new phone yesterday.",
+    "example_meaning": "Tôi đã mua một chiếc điện thoại mới vào ngày hôm qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "catch",
+    "v2": "caught",
+    "v3": "caught",
+    "meaning": "Bắt",
+    "example": "He caught the ball during the game.",
+    "example_meaning": "Anh ấy đã bắt bóng trong trận đấu.",
+    "user_examples": []
+  },
+  {
+    "v1": "choose",
+    "v2": "chose",
+    "v3": "chosen",
+    "meaning": "Chọn",
+    "example": "She chose the red dress for the party.",
+    "example_meaning": "Cô ấy đã chọn chiếc váy đỏ cho buổi tiệc.",
+    "user_examples": []
+  },
+  {
+    "v1": "come",
+    "v2": "came",
+    "v3": "come",
+    "meaning": "Đến",
+    "example": "They came to the event last night.",
+    "example_meaning": "Họ đã đến sự kiện vào tối qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "cut",
+    "v2": "cut",
+    "v3": "cut",
+    "meaning": "Cắt",
+    "example": "He cut the paper into pieces.",
+    "example_meaning": "Anh ấy đã cắt giấy thành các mảnh.",
+    "user_examples": []
+  },
+  {
+    "v1": "do",
+    "v2": "did",
+    "v3": "done",
+    "meaning": "Làm",
+    "example": "She did her homework last night.",
+    "example_meaning": "Cô ấy đã làm bài tập về nhà vào tối qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "drink",
+    "v2": "drank",
+    "v3": "drunk",
+    "meaning": "Uống",
+    "example": "They drank a lot of water after the workout.",
+    "example_meaning": "Họ đã uống rất nhiều nước sau buổi tập.",
+    "user_examples": []
+  },
+  {
+    "v1": "eat",
+    "v2": "ate",
+    "v3": "eaten",
+    "meaning": "Ăn",
+    "example": "I ate lunch at 12 PM.",
+    "example_meaning": "Tôi đã ăn trưa lúc 12 giờ.",
+    "user_examples": []
+  },
+  {
+    "v1": "fall",
+    "v2": "fell",
+    "v3": "fallen",
+    "meaning": "Ngã, rơi",
+    "example": "He fell down the stairs yesterday.",
+    "example_meaning": "Anh ấy đã ngã cầu thang hôm qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "feel",
+    "v2": "felt",
+    "v3": "felt",
+    "meaning": "Cảm thấy",
+    "example": "She felt happy after the meeting.",
+    "example_meaning": "Cô ấy cảm thấy vui sau cuộc họp.",
+    "user_examples": []
+  },
+  {
+    "v1": "leave",
+    "v2": "left",
+    "v3": "left",
+    "meaning": "Rời đi",
+    "example": "They left the office at 6 PM.",
+    "example_meaning": "Họ đã rời văn phòng lúc 6 giờ chiều.",
+    "user_examples": []
+  },
+  {
+    "v1": "lend",
+    "v2": "lent",
+    "v3": "lent",
+    "meaning": "Cho mượn",
+    "example": "I lent him my book.",
+    "example_meaning": "Tôi đã cho anh ấy mượn sách.",
+    "user_examples": []
+  },
+  {
+    "v1": "lose",
+    "v2": "lost",
+    "v3": "lost",
+    "meaning": "Mất",
+    "example": "He lost his keys yesterday.",
+    "example_meaning": "Anh ấy đã làm mất chìa khóa hôm qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "make",
+    "v2": "made",
+    "v3": "made",
+    "meaning": "Làm, tạo ra",
+    "example": "She made a delicious cake.",
+    "example_meaning": "Cô ấy đã làm một chiếc bánh ngon.",
+    "user_examples": []
+  },
+  {
+    "v1": "meet",
+    "v2": "met",
+    "v3": "met",
+    "meaning": "Gặp",
+    "example": "They met at the café yesterday.",
+    "example_meaning": "Họ đã gặp nhau ở quán cà phê hôm qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "pay",
+    "v2": "paid",
+    "v3": "paid",
+    "meaning": "Thanh toán",
+    "example": "I paid the bill yesterday.",
+    "example_meaning": "Tôi đã thanh toán hóa đơn hôm qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "read",
+    "v2": "read",
+    "v3": "read",
+    "meaning": "Đọc",
+    "example": "He read the book yesterday.",
+    "example_meaning": "Anh ấy đã đọc cuốn sách hôm qua.",
+    "user_examples": []
+  },
+  {
+    "v1": "take",
+    "v2": "took",
+    "v3": "taken",
+    "meaning": "Lấy, mang",
+    "example": "I took the bus to work this morning.",
+    "example_meaning": "Tôi đã đi xe buýt đến nơi làm sáng nay.",
+    "user_examples": []
+  }
 ]
