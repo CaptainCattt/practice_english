@@ -1,0 +1,195 @@
+{
+  "theory": {
+    "comparative": {
+      "description": "So sánh hơn dùng để so sánh 2 người hoặc 2 vật.",
+      "rules": [
+        "Tính từ ngắn: adj + er",
+        "Tính từ dài: more + adj"
+      ],
+      "example": "This book is cheaper than that one."
+    },
+    "superlative": {
+      "description": "So sánh nhất dùng khi so sánh từ 3 đối tượng trở lên.",
+      "rules": [
+        "Tính từ ngắn: the + adj + est",
+        "Tính từ dài: the most + adj"
+      ],
+      "example": "This is the cheapest book."
+    }
+  },
+
+  "data": [
+    {
+      "category": "short_adjective",
+      "base": "tall",
+      "comparative": "taller",
+      "superlative": "the tallest",
+      "meaning": "cao",
+      "example": "He is taller than his brother."
+    },
+    {
+      "category": "short_adjective",
+      "base": "fast",
+      "comparative": "faster",
+      "superlative": "the fastest",
+      "meaning": "nhanh",
+      "example": "This car is the fastest."
+    },
+    {
+      "category": "short_adjective",
+      "base": "big",
+      "comparative": "bigger",
+      "superlative": "the biggest",
+      "meaning": "to, lớn",
+      "example": "My house is bigger than yours."
+    },
+    {
+      "category": "short_adjective",
+      "base": "small",
+      "comparative": "smaller",
+      "superlative": "the smallest",
+      "meaning": "nhỏ",
+      "example": "This is the smallest box."
+    },
+    {
+      "category": "short_adjective",
+      "base": "cold",
+      "comparative": "colder",
+      "superlative": "the coldest",
+      "meaning": "lạnh",
+      "example": "Today is colder than yesterday."
+    },
+
+    {
+      "category": "short_adjective_y",
+      "base": "happy",
+      "comparative": "happier",
+      "superlative": "the happiest",
+      "meaning": "hạnh phúc",
+      "example": "She feels happier today."
+    },
+    {
+      "category": "short_adjective_y",
+      "base": "easy",
+      "comparative": "easier",
+      "superlative": "the easiest",
+      "meaning": "dễ",
+      "example": "This test is easier than the last one."
+    },
+    {
+      "category": "short_adjective_y",
+      "base": "busy",
+      "comparative": "busier",
+      "superlative": "the busiest",
+      "meaning": "bận rộn",
+      "example": "She is the busiest student in the class."
+    },
+    {
+      "category": "short_adjective_other",
+      "base": "clever",
+      "comparative": "cleverer",
+      "superlative": "the cleverest",
+      "meaning": "thông minh",
+      "example": "He is cleverer than me."
+    },
+
+    {
+      "category": "long_adjective",
+      "base": "beautiful",
+      "comparative": "more beautiful",
+      "superlative": "the most beautiful",
+      "meaning": "đẹp",
+      "example": "She is the most beautiful girl in the class."
+    },
+    {
+      "category": "long_adjective",
+      "base": "expensive",
+      "comparative": "more expensive",
+      "superlative": "the most expensive",
+      "meaning": "đắt",
+      "example": "This phone is more expensive than mine."
+    },
+    {
+      "category": "long_adjective",
+      "base": "interesting",
+      "comparative": "more interesting",
+      "superlative": "the most interesting",
+      "meaning": "thú vị",
+      "example": "This book is the most interesting."
+    },
+    {
+      "category": "long_adjective",
+      "base": "important",
+      "comparative": "more important",
+      "superlative": "the most important",
+      "meaning": "quan trọng",
+      "example": "Health is more important than money."
+    },
+
+    {
+      "category": "long_adverb",
+      "base": "carefully",
+      "comparative": "more carefully",
+      "superlative": "the most carefully",
+      "meaning": "cẩn thận",
+      "example": "She works more carefully than others."
+    },
+    {
+      "category": "long_adverb",
+      "base": "slowly",
+      "comparative": "more slowly",
+      "superlative": "the most slowly",
+      "meaning": "chậm",
+      "example": "He drives more slowly in the city."
+    },
+    {
+      "category": "long_adverb",
+      "base": "efficiently",
+      "comparative": "more efficiently",
+      "superlative": "the most efficiently",
+      "meaning": "hiệu quả",
+      "example": "This team works the most efficiently."
+    },
+
+    {
+      "category": "irregular",
+      "base": "good",
+      "comparative": "better",
+      "superlative": "the best",
+      "meaning": "tốt",
+      "example": "This is the best solution."
+    },
+    {
+      "category": "irregular",
+      "base": "bad",
+      "comparative": "worse",
+      "superlative": "the worst",
+      "meaning": "tệ",
+      "example": "This is the worst movie I have seen."
+    },
+    {
+      "category": "irregular",
+      "base": "far",
+      "comparative": "farther / further",
+      "superlative": "the farthest / the furthest",
+      "meaning": "xa",
+      "example": "My school is farther than yours."
+    },
+    {
+      "category": "irregular",
+      "base": "much",
+      "comparative": "more",
+      "superlative": "the most",
+      "meaning": "nhiều",
+      "example": "She has more experience."
+    },
+    {
+      "category": "irregular",
+      "base": "little",
+      "comparative": "less",
+      "superlative": "the least",
+      "meaning": "ít",
+      "example": "He has the least money."
+    }
+  ]
+}

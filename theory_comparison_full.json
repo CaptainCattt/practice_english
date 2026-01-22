@@ -1,0 +1,105 @@
+{
+  "title": "Comparison in English (Comparative & Superlative)",
+  "sections": [
+    {
+      "heading": "1. Khái niệm chung",
+      "content": [
+        "So sánh dùng để so sánh sự khác nhau giữa hai hoặc nhiều người, vật.",
+        "Tiếng Anh có so sánh hơn và so sánh nhất."
+      ]
+    },
+    {
+      "heading": "2. So sánh hơn (Comparative)",
+      "content": [
+        "Dùng khi so sánh hai đối tượng.",
+        "Thường có từ 'than' theo sau."
+      ],
+      "rules": [
+        "Tính từ ngắn: adj + er",
+        "Tính từ dài: more + adj"
+      ],
+      "examples": [
+        {
+          "en": "She is taller than me.",
+          "vi": "Cô ấy cao hơn tôi."
+        },
+        {
+          "en": "This book is more interesting than that one.",
+          "vi": "Quyển sách này thú vị hơn quyển kia."
+        }
+      ]
+    },
+    {
+      "heading": "3. So sánh nhất (Superlative)",
+      "content": [
+        "Dùng khi so sánh từ ba đối tượng trở lên.",
+        "Thường có 'the' đứng trước."
+      ],
+      "rules": [
+        "Tính từ ngắn: the + adj + est",
+        "Tính từ dài: the most + adj"
+      ],
+      "examples": [
+        {
+          "en": "He is the tallest student in the class.",
+          "vi": "Anh ấy là học sinh cao nhất lớp."
+        }
+      ]
+    },
+    {
+      "heading": "4. Quy tắc chính tả",
+      "rules": [
+        "Adj kết thúc bằng -e: large → larger → largest",
+        "CVC: big → bigger → biggest",
+        "Adj kết thúc bằng -y: happy → happier → happiest"
+      ],
+      "examples": [
+        {
+          "en": "This is the biggest house.",
+          "vi": "Đây là ngôi nhà lớn nhất."
+        }
+      ]
+    },
+    {
+      "heading": "5. Trạng từ trong so sánh",
+      "content": [
+        "Hầu hết trạng từ dùng more / most.",
+        "Một số trạng từ ngắn có -er / -est."
+      ],
+      "examples": [
+        {
+          "en": "She runs faster than me.",
+          "vi": "Cô ấy chạy nhanh hơn tôi."
+        }
+      ]
+    },
+    {
+      "heading": "6. So sánh bất quy tắc",
+      "irregular": [
+        "good → better → best",
+        "bad → worse → worst",
+        "far → farther/further → farthest/furthest",
+        "many/much → more → most"
+      ],
+      "examples": [
+        {
+          "en": "This is the best day of my life.",
+          "vi": "Đây là ngày tuyệt vời nhất đời tôi."
+        }
+      ]
+    },
+    {
+      "heading": "7. Lỗi thường gặp",
+      "content": [
+        "Dùng more với adj ngắn (sai).",
+        "Quên 'the' trong so sánh nhất."
+      ],
+      "examples": [
+        {
+          "en": "❌ the most tallest",
+          "vi": "Sai – chỉ dùng: the tallest"
+        }
+      ]
+    }
+  ]
+}

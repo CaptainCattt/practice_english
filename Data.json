@@ -168,7 +168,9 @@
     "meaning": "Mất",
     "example": "He lost his keys yesterday.",
     "example_meaning": "Anh ấy đã làm mất chìa khóa hôm qua.",
-    "user_examples": []
+    "user_examples": [
+      "She lost his keys yesterday."
+    ]
   },
   {
     "v1": "make",

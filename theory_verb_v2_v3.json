@@ -1,0 +1,118 @@
+{
+  "title": "Verb Forms: V2 & V3 (Past Simple & Past Participle)",
+  "sections": [
+    {
+      "heading": "1. Động từ trong tiếng Anh",
+      "content": [
+        "Động từ (Verb) dùng để diễn tả hành động, trạng thái hoặc sự việc.",
+        "Mỗi động từ tiếng Anh thường có 3 dạng chính: V1 (nguyên mẫu), V2 (quá khứ đơn), V3 (quá khứ phân từ)."
+      ],
+      "examples": [
+        {
+          "en": "go – went – gone",
+          "vi": "đi – đã đi – đã đi (hoàn thành)"
+        }
+      ]
+    },
+    {
+      "heading": "2. V2 – Quá khứ đơn (Past Simple)",
+      "content": [
+        "V2 được dùng để diễn tả hành động đã xảy ra và kết thúc trong quá khứ.",
+        "Thường đi với các mốc thời gian xác định."
+      ],
+      "rules": [
+        "Câu khẳng định: S + V2",
+        "Câu phủ định: S + did not + V1",
+        "Câu hỏi: Did + S + V1?"
+      ],
+      "time_signals": [
+        "yesterday",
+        "last night / last week / last year",
+        "ago",
+        "in 2020"
+      ],
+      "examples": [
+        {
+          "en": "I watched TV last night.",
+          "vi": "Tôi đã xem TV tối qua."
+        },
+        {
+          "en": "Did you go to school yesterday?",
+          "vi": "Bạn có đi học hôm qua không?"
+        }
+      ]
+    },
+    {
+      "heading": "3. V3 – Quá khứ phân từ (Past Participle)",
+      "content": [
+        "V3 không đứng một mình, thường dùng với trợ động từ.",
+        "V3 rất quan trọng trong thì hoàn thành và câu bị động."
+      ],
+      "uses": [
+        "Thì hiện tại hoàn thành (have/has + V3)",
+        "Thì quá khứ hoàn thành (had + V3)",
+        "Câu bị động (be + V3)"
+      ],
+      "examples": [
+        {
+          "en": "I have finished my homework.",
+          "vi": "Tôi đã hoàn thành bài tập."
+        },
+        {
+          "en": "The door was opened.",
+          "vi": "Cánh cửa đã được mở."
+        }
+      ]
+    },
+    {
+      "heading": "4. Động từ có quy tắc (Regular Verbs)",
+      "content": [
+        "Động từ có quy tắc thêm -ed ở V2 và V3.",
+        "Một số trường hợp cần chú ý chính tả."
+      ],
+      "rules": [
+        "V + ed: work → worked",
+        "V kết thúc bằng e: live → lived",
+        "Phụ âm + y → đổi y thành i + ed: study → studied"
+      ],
+      "examples": [
+        {
+          "en": "She studied English yesterday.",
+          "vi": "Cô ấy đã học tiếng Anh hôm qua."
+        }
+      ]
+    },
+    {
+      "heading": "5. Động từ bất quy tắc (Irregular Verbs)",
+      "content": [
+        "Động từ bất quy tắc không theo quy luật thêm -ed.",
+        "Cần học thuộc bảng động từ bất quy tắc."
+      ],
+      "common_verbs": [
+        "go – went – gone",
+        "eat – ate – eaten",
+        "see – saw – seen",
+        "do – did – done"
+      ],
+      "examples": [
+        {
+          "en": "He ate an apple.",
+          "vi": "Anh ấy đã ăn một quả táo."
+        }
+      ]
+    },
+    {
+      "heading": "6. Lỗi thường gặp",
+      "content": [
+        "Dùng V2 sau did (sai).",
+        "Dùng V2 thay cho V3 trong thì hoàn thành."
+      ],
+      "examples": [
+        {
+          "en": "❌ Did you went to school?",
+          "vi": "Sai – phải dùng: Did you go to school?"
+        }
+      ]
+    }
+  ]
+}
